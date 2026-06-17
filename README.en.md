@@ -1,6 +1,6 @@
 # Python Fun Mathematics - Final Exam
 
-Guangdong Second Normal University - 2025-2026 Academic Year Semester 2 - Python Fun Mathematics Final Exam
+Normal University - 2025-2026 Academic Year Semester 2 - Python Fun Mathematics Final Exam
 
 ## Project Structure
 
@@ -78,7 +78,6 @@ python Question_2.py
 
 - **Exam Date**: June 17, 2026
 - **Duration**: 90 minutes
-- **Location**: Huadu Campus
 - **Format**: Open Book
 - **Course Type**: Public Elective
 
